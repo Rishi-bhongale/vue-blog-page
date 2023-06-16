@@ -8,7 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@vueuse/core": "^10.1.2",
     "core-js": "^3.8.3",
+    "nuxt": "^3.5.1",
     "vue": "^3.2.13"
   },
   "devDependencies": {
@@ -17,8 +24,14 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.14",
     "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint-plugin-vue": "^8.0.3",
+    "node-sass": "^9.0.0",
+    "nuxt-icon": "^0.4.1",
+    "postcss": "^8.4.24",
+    "sass-loader": "^13.3.0",
+    "tailwindcss": "^3.3.2"
   },
   "eslintConfig": {
     "root": true,
