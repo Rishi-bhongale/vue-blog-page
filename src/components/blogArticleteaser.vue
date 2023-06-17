@@ -95,7 +95,6 @@ h2{
         font-size: 100%;
     }
   
-  /* Styles for screens between 769px and 1024px */
 }
 
 @media(min-width: 1025px) {
@@ -113,7 +112,7 @@ h2{
     h2{
         font-size: 100%;
     }
-  /* Styles for screens larger than 1025px */
+
 }
 
 </style>
